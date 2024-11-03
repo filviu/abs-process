@@ -1,0 +1,11 @@
+# Ignore virtual environment
+venv/
+
+# Ignore generated files
+__pycache__/
+*.pyc
+*~
+# ignore config file
+abs.ini
+# ignore debug data files
+*.json

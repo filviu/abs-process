@@ -1,0 +1,3 @@
+BASE_URL = https://audiobookshelf.example.com/api
+API_KEY = aaabbbcccdddeeefffggghhh
+LIBRARY = Audiobooks
